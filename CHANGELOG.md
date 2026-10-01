@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.2.1 - 2026-10-01
+
+### Fixed
+
+- Loads on the 2.5.6 client without being marked out of date. The addon
+  now lists interface 20506 alongside 20505.
+
 ## 0.2.0 - 2026-05-12
 
 - Pressing Escape now closes the panel.
