@@ -2,7 +2,7 @@
 ## Title: |cffD4C8A1Wick's|r |cff4FC778Wardrobe|r
 ## Notes: Tier set and weapon browser with an inline model preview.
 ## Author: Wick
-## Version: 0.2.1
+## Version: 0.2.2
 ## SavedVariables: WicksWardrobeDB
 ## IconTexture: Interface\Icons\Trade_Tailoring
 ## Category: Wick's Mods
