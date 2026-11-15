@@ -1,9 +1,14 @@
 ## Interface: 20505, 20506
-## Title: Wick's Wardrobe
-## Notes: tier set and weapon browser with inline model preview for tbc classic
+## Title: |cffD4C8A1Wick's|r |cff4FC778Wardrobe|r
+## Notes: Tier set and weapon browser with an inline model preview.
 ## Author: Wick
 ## Version: 0.2.1
 ## SavedVariables: WicksWardrobeDB
+## IconTexture: Interface\Icons\Trade_Tailoring
+## Category: Wick's Mods
+## X-Website: https://wicksmods.com
+## X-License: MIT with trademark carve-out
+## X-Curse-Project-ID: 1540943
 
 # Core
 Core.lua
